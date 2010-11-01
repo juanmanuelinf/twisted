@@ -62,7 +62,7 @@
     <Content Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MvcApplication1\MvcApplication1.csproj">
+    <ProjectReference Include="..\MvcApplication1\Twisted.csproj">
       <Project>{4504DC4A-BBCE-4A21-9169-797B73BC8C83}</Project>
       <Name>MvcApplication1</Name>
     </ProjectReference>
